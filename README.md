@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there. It's SeongHan Kim 👋
 ### 🌱 I’m currently learning about Java, Kotlin and Spring
+### Nice to meet you! 😄
 <!--
 **Dudu-CNU/Dudu-CNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=ffffff" />
 
 ### I’m currently learning about React & Docker.
 ### Nice to meet you! 😄

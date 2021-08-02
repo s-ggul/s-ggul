@@ -5,10 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-CNU&theme=synthwave&show_icons=true" />
 </a>
 </p>
-
+<br />
   <h3 align="center">I’m currently learning about React & TypeScript.</h3>
   <h3 align="center">Nice to meet you! 😄  </h3>
-
+<br />
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="center"><b>Studying</b></h4>
 <p align="center">

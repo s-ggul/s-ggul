@@ -5,7 +5,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dudu-CNU&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h4 align="center"><b>🛠 Tech Stack 🛠</b></h4>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -13,13 +13,13 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 </p>
 
-<h3><b>Studying</b></h3>
+<h4 align="center"><b>Studying</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
 </p>
 
-<h3 align="center">used</h3>
+<h4 align="center">used</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>

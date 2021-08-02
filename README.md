@@ -7,7 +7,6 @@
 
 <h4 align="center"><b>🛠 Tech Stack 🛠</b></h4>
 </br>
-
 <h4 align="center"><b>Studying</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>

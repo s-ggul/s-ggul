@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=ffffff" />
 <p align="center">
-### I’m currently learning about React & TypeScript.
-### Nice to meet you! 😄  
+<h3>I’m currently learning about React & TypeScript.</h3>
+  <h3> Nice to meet you! 😄  </h3>
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">

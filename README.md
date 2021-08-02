@@ -12,3 +12,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" />

@@ -32,11 +32,11 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ocaml-7952B3?style=flat-square&logo=Ocaml&logoColor=white"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ocaml-7952B3?style=flat-square&logo=Ocaml&logoColor=lightyellow"/>
 </p>
 
 

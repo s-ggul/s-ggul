@@ -36,7 +36,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ocaml-fffff?style=flat-square&logo=Ocaml&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Ocaml-000000?style=flat-square&logo=Ocaml&logoColor=yellow"/>
 </p>
 
 

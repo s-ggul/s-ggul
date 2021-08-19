@@ -45,4 +45,4 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Velog-00FFCC?style=flat-square&logo=Vimeo&logoColor=white"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" />
+<a href="https://velog.io/@k0s0a7"><img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" /></a>

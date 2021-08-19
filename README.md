@@ -43,6 +43,6 @@
 
 <h4 align="center"> My </h4>
 <p align="center">
-<a href="https://velog.io/@k0s0a7"><img src="https://img.shields.io/badge/Velog-00FFCC?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@k0s0a7"><img src="https://img.shields.io/badge/Velog-66FFCC?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" />

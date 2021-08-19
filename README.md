@@ -41,5 +41,7 @@
 <img src="https://img.shields.io/badge/Ocaml-000000?style=flat-square&logo=Ocaml&logoColor=yellow"/>
 </p>
 
+<h4 align="center">my</h4>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Velog&logoColor=white"/>https://velog.io/@k0s0a7
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" />

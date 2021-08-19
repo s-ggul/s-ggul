@@ -42,6 +42,7 @@
 </p>
 
 <h4 align="center"> My </h4>
-<img src="https://img.shields.io/badge/Vimeo-000000?style=flat-square&logo=Velog&logoColor=white"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Vimeo-00FFCC?style=flat-square&logo=Velog&logoColor=white"/>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" />

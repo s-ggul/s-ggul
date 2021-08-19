@@ -40,4 +40,8 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ocaml-000000?style=flat-square&logo=Ocaml&logoColor=yellow"/>
 </p>
+
+<h4 align="center"> My </h4>
+<img src="https://img.shields.io/badge/Vimeo-000000?style=flat-square&logo=Velog&logoColor=white"/>
+
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" />

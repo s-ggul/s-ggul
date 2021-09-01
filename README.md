@@ -1,11 +1,11 @@
-<div>
+
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=ffffff" />
 
-  <span>
+<span>
     
-    [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
-    
-  </span>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
+   
+</span>
   
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -56,4 +56,3 @@
 <a href="https://velog.io/@k0s0a7"><img src="https://img.shields.io/badge/Velog-66FFCC?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer" />
-</div>

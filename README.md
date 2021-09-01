@@ -58,6 +58,6 @@
 
 <style>
     .stat{
-        display:inline
+        display:inline;
     }
 </style>

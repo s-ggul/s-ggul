@@ -1,10 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=ffffff" />
 
-<p align="center" style="margin-left:50%">
-    
+<p item-align="center">
 [![solved.ac](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
-
 </p>
 
 <p align="center">

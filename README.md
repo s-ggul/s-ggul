@@ -3,7 +3,8 @@
 
 <span>
     
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
+[![solved.ac](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
+
  
 </span>
 

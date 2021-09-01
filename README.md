@@ -8,6 +8,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-CNU&theme=synthwave&show_icons=true" />
 </a>[![solved.ac](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
+
+![Dudu-CNU's github stats](https://github-readme-stats.vercel.app/api?username=Dudu-CNU&show_icons=true&theme=synthwave)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)  
   
 </p>
 

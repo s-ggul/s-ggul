@@ -1,9 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=ffffff" />
 
-
-
-
 <p align="center">
 
 ![Dudu-CNU's github stats](https://github-readme-stats.vercel.app/api?username=Dudu-CNU&show_icons=true&theme=synthwave)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)  

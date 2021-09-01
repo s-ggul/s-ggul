@@ -5,8 +5,7 @@
     
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
  
-</span>
-<span>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-CNU&theme=synthwave&show_icons=true" />
 </a>      

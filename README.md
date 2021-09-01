@@ -7,7 +7,7 @@
 
 </span>
 
-<span class='stat'>
+<span class='stat'style="diplay:inline">
 <a href="https://github.com/anuraghazra/github-readme-stats" style={display:flex}>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-CNU&theme=synthwave&show_icons=true" />
 </a>  

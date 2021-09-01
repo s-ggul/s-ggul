@@ -1,11 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=ffffff" />
 
-<span class='stat'>
+<span class='stat' style="diplay:inline">
     
 [![solved.ac](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
 
- 
 </span>
 
 <span class='stat'>

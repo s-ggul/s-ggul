@@ -1,13 +1,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dudu&%20render&fontSize=90&fontColor=ffffff" />
 
-<span class='stat' style="diplay:inline">
+<span class="stat" style="diplay:inline">
     
 [![solved.ac](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
 
 </span>
 
-<span class='stat'style="diplay:inline">
+<span class="stat" style="diplay:inline">
 <a href="https://github.com/anuraghazra/github-readme-stats" style={display:flex}>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-CNU&theme=synthwave&show_icons=true" />
 </a>  

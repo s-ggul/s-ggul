@@ -5,12 +5,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dudu-CNU&theme=synthwave&show_icons=true" />
 </a>  
-</p>
-<p align="center">
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
 
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya)
+  
 </p>
+
+ 
 <br />
   <h3 align="center">I’m currently learning about React & TypeScript.</h3>
   <h3 align="center">Nice to meet you! 😄  </h3>

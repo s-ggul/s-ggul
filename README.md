@@ -5,9 +5,7 @@
 
 ![Dudu-CNU's github stats](https://github-readme-stats.vercel.app/api?username=Dudu-Kim&show_icons=true&theme=react)[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)  
   
-</p>
-<img src="https://conf.reactjs.org/tickets/Dudu-Kim" />
- 
+</p> 
 <br />
   <!-- <h3 align="center">I’m currently learning about React & TypeScript.</h3> -->
   <h3 align="center">Nice to meet you! 😄  </h3>

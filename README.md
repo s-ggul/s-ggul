@@ -58,3 +58,4 @@
 <a href="https://velog.io/@k0s0a7"><img src="https://img.shields.io/badge/Velog-66FFCC?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=footer&%20render&fontSize=90"/>
+<img src="https://img.shields.io/badge/LearningNote-00599C?style=flat-square&logo=&logoColor=white"/>

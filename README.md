@@ -14,7 +14,7 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="center"><b>Studying</b></h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-c7cdd4?style=flat-square&logo=Flutter&logoColor=00aaff"/>
+<img src="https://img.shields.io/badge/Flutter-c7cdd4?style=flat-square&logo=Flutter&logoColor=00aaff&radius=5px"/>
 <img src="https://img.shields.io/badge/Kotlin-227ce3?style=flat-square&logo=Kotlin&logoColor=orange"/>
 <img src="https://img.shields.io/badge/C%23-3fe322?style=flat-square&logo=Csharp&logoColor=white"/>  
 </p>

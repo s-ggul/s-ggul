@@ -3,8 +3,7 @@
 
 <p align="center">
 
-![Dudu-CNU's github stats](https://github-readme-stats.vercel.app/api?username=Dudu-Kim&show_icons=true&theme=react)[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)  
-  
+![Dudu-CNU's github stats](https://github-readme-stats.vercel.app/api?username=Dudu-Kim&show_icons=true&theme=react)
 </p> 
 
 <br />

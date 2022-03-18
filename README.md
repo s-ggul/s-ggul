@@ -12,11 +12,12 @@
   <h3 align="center">Nice to meet you! 😄  </h3>
 <br />
 <h3 align="center"><b>🛠 Participation 🛠</b></h3>
-|Participation|Project Name|Organization|Role|
-|:----:|:-------:|:-------:|:----:|
-|SiliconValley Online Internship | Voice Synthesizer | Frontend |
-|IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|
-|Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|
+
+|Participation|Project Name|Organization|Role|Used|Period|
+|:----:|:-------:|:-------:|:----:|:----:|:----:|
+|SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart | Frontend |React,Redux, NextJs||
+|IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|NodeRed, Mosquitto, RaspberryPi & Sensor||
+|Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#||
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>

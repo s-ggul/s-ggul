@@ -19,7 +19,7 @@
 |Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#||
 
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b> Tech Stack </b></h3>
 <h4 align="center"><b>Studying</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-c7cdd4?style=flat-square&logo=Flutter&logoColor=00aaff"/>

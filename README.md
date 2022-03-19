@@ -11,7 +11,7 @@
   <!-- <h3 align="center">I’m currently learning about React & TypeScript.</h3> -->
   <h3 align="center">Nice to meet you! 😄  </h3>
 <br />
-<h3 align="center"><b>🛠 Participation 🛠</b></h3>
+<h3 align="center"><b> Participation </b></h3>
 
 |Participation|Project Name|Organization|Role|Used|Period|
 |:----:|:-------:|:-------:|:----:|:----:|:----:|
@@ -20,7 +20,7 @@
 |Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#|2022-03-07 ~ ing|
 
 
-<h3 align="center"><b> Tech Stack </b></h3>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="center"><b>Studying</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-c7cdd4?style=flat-square&logo=Flutter&logoColor=00aaff"/>

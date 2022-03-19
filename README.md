@@ -15,7 +15,7 @@
 
 |Participation|Project Name|Organization|Role|Used|Period|
 |:----:|:-------:|:-------:|:----:|:----:|:----:|
-|SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart | Frontend |React,Redux, NextJs||
+|SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart | Frontend |React,Redux, NextJs|2021-07-05 ~ 2021-07-30|
 |IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|NodeRed, Mosquitto, RaspberryPi & Sensor|2021-12-31 ~ 2022-02-27|
 |Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#||
 

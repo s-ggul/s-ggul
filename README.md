@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Dudu&%20render&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=120&section=header&text=Dudu&%20render&fontSize=90"/>
 
 <p align="center">
 

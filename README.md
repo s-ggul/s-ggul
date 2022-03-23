@@ -1,9 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=Dudu&%20render&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Dudu&%20render&fontSize=90"/>
 
 <p align="center">
 
-![Dudu-CNU's github stats](https://github-readme-stats.vercel.app/api?username=Dudu-Kim&show_icons=true&theme=react)[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)  
+![s-ggul's github stats](https://github-readme-stats.vercel.app/api?username=s-ggul&show_icons=true&theme=react)[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)  
   
 </p> 
 
@@ -67,4 +67,4 @@
 <a href="https://velog.io/@k0s0a7"><img src="https://img.shields.io/badge/Velog-66FFCC?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/Dudu-Kim/Learning_Note"><img src="https://img.shields.io/badge/LearningNote-e195ed?style=flat-square&logo=Github&logoColor=black"/></a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=footer&%20render&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=footer&%20render&fontSize=90"/>

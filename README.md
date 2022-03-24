@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=S-ggul&%20render&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=Sunghan&%20render&fontSize=90"/>
 
 <p align="center">
 

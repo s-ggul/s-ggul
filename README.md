@@ -11,7 +11,7 @@
   <!-- <h3 align="center">I’m currently learning about React & TypeScript.</h3> -->
   <h3 align="center">Nice to meet you! 😄  </h3>
 <br />
-<h3 align="center"><b> Participation </b></h3>
+<h3 align="center"><b> :date: Participation :clock10: </b></h3>
 
 |Participation|Project Name|Organization|Role|Used|Period|
 |:----:|:-------:|:-------:|:----:|:----:|:----:|

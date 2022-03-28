@@ -8,8 +8,6 @@
 </p> 
 
 <br />
-  <!-- <h3 align="center">I’m currently learning about React & TypeScript.</h3> -->
-  <h3 align="center">Nice to meet you! 😄  </h3>
 <br />
 <h3 align="center"><b> :date: Participation :clock10: </b></h3>
 
@@ -19,6 +17,7 @@
 |IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|NodeRed, Mosquitto, RaspberryPi & Sensor|2021-12-31 ~ 2022-02-27|
 |Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#|2022-03-07 ~ ing|
 
+<br />
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="center"><b>Studying</b></h4>

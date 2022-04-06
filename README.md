@@ -65,6 +65,6 @@
 <h4 align="center"> My </h4>
 <p align="center">
 <a href="https://velog.io/@k0s0a7"><img src="https://img.shields.io/badge/Velog-66FFCC?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://github.com/s-ggul/Learning_Note"><img src="https://img.shields.io/badge/LearningNote-e195ed?style=flat-square&logo=Github&logoColor=black"/></a>
+<a href="https://github.com/s-ggul/Learning_Note"><img src="https://img.shields.io/badge/TIL-e195ed?style=flat-square&logo=Github&logoColor=black"/></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=footer&%20render&fontSize=90"/>

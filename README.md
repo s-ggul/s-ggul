@@ -64,7 +64,7 @@
 
 <h4 align="center"> My </h4>
 <p align="center">
-<a href="https://algo-honey.tistory.com"><img src="https://img.shields.io/badge/-FFD400?style=flat-square&logo=Tstory&logoColor=black"/></a>
+<a href="https://algo-honey.tistory.com"><img src="https://img.shields.io/badge/TVTime-FFD400?style=flat-square&logo=Tstory&logoColor=black"/></a>
 <a href="https://github.com/s-ggul/TIL"><img src="https://img.shields.io/badge/TIL-e195ed?style=flat-square&logo=Github&logoColor=black"/></a>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=footer&%20render&fontSize=90"/>

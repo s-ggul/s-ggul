@@ -68,4 +68,9 @@
 <a href="https://algo-honey.tistory.com"><img src="https://img.shields.io/badge/Tstory-FFD400?style=flat-square&logo=TVtime&logoColor=black"/></a>
 <a href="https://github.com/s-ggul/TIL"><img src="https://img.shields.io/badge/TIL-e195ed?style=flat-square&logo=Github&logoColor=black"/></a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/s-ggul/s-ggul/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=footer&%20render&fontSize=90"/>

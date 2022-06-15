@@ -4,7 +4,7 @@
 <p align="center">
 
 ![s-ggul's github stats](https://github-readme-stats.vercel.app/api?username=s-ggul&show_icons=true&theme=react)[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=dkeya)](https://solved.ac/dkeya)  
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=steavee)](https://solved.ac/steavee/)
 </p> 
 
 <br />

@@ -25,18 +25,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-1976D2?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/Kotlin-227ce3?style=flat-square&logo=Kotlin&logoColor=orange"/>-->
-  <img src="https://img.shields.io/badge/C%23-3fe322?style=flat-square&logo=Csharp&logoColor=white"/>  
+   
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Kotlin-227ce3?style=flat-square&logo=Kotlin&logoColor=orange"/>--> 
 </p>
 
 <h4 align="center">Previously I used</h4>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-3fe322?style=flat-square&logo=Csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-c7cdd4?style=flat-square&logo=Flutter&logoColor=00aaff"/>

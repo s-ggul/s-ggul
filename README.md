@@ -24,7 +24,7 @@
 <h4 align="center"><b>Studying</b></h4>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-1976D2?style=flat-square&logo=TypeScript&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/Kotlin-227ce3?style=flat-square&logo=Kotlin&logoColor=orange"/>-->
   <img src="https://img.shields.io/badge/C%23-3fe322?style=flat-square&logo=Csharp&logoColor=white"/>  
 </p>

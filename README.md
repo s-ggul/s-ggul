@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   
-      <img src="https://img.shields.io/badge/Spring-003300?style=flat-square&logo=Spring&logoColor=lightgreen"/>
-          <img src="https://img.shields.io/badge/Mysql-003300?style=flat-square&logo=MySql&logoColor=lightgreen"/>
+  <img src="https://img.shields.io/badge/Spring-003300?style=flat-square&logo=Spring&logoColor=lightgreen"/>
+  <img src="https://img.shields.io/badge/Mysql-003300?style=flat-square&logo=MySql&logoColor=lightgreen"/>
 </p>
 
 <p align="center">

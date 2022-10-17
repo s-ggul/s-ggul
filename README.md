@@ -30,6 +30,9 @@
    
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  
+      <img src="https://img.shields.io/badge/Spring-003300?style=flat-square&logo=Spring&logoColor=lightgreen"/>
+          <img src="https://img.shields.io/badge/Mysql-003300?style=flat-square&logo=MySql&logoColor=lightgreen"/>
 </p>
 
 <p align="center">
@@ -56,9 +59,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
-<h4 align="center">Used at School</h4>
+<h4 align="center">Used</h4>
   <p align="center">
-    <img src="https://img.shields.io/badge/Spring-003300?style=flat-square&logo=Spring&logoColor=lightgreen"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ocaml-000000?style=flat-square&logo=Ocaml&logoColor=yellow"/>

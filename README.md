@@ -17,6 +17,7 @@
 |SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart |WEB Frontend |React,Redux, NextJs, NginX|2021-07-05 ~ 2021-07-30|
 |IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|NodeRed, Mosquitto, RaspberryPi & Sensor|2021-12-31 ~ 2022-02-27|
 |Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#|2022-03-07 ~ 2022-06-24|
+|K-Hackathon| 취약계층을 위한 키오스크(QR-UFO) | 과학기술정보통신부 |WEB Frontend|React.js|2022-06-17 ~ 2022-10-20|
 |SSAFY 8th| SSAFY 8기 | Multi Campus & SAMSUNG |Student|Java, Javascript, Algorithms |2022-07-06 ~ ing|
 
 

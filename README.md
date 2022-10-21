@@ -22,7 +22,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-gull)](https://github.com/s-ggul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ggul)](https://github.com/s-ggul/github-readme-stats)
 
 <br />
 

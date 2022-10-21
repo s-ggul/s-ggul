@@ -20,6 +20,9 @@
 |K-Hackathon| 취약계층을 위한 키오스크(QR-UFO) | 과학기술정보통신부 |WEB Frontend|React.js|2022-06-17 ~ 2022-10-20|
 |SSAFY 8th| SSAFY 8기 | Multi Campus & SAMSUNG |Student|Java, Javascript, Algorithms |2022-07-06 ~ ing|
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-gull)](https://github.com/s-ggul/github-readme-stats)
 
 <br />
 

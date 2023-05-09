@@ -2,80 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=Sunghan&%20render&fontSize=90"/>
 
 <p align="center">
-
-```html
-  
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=\, initial-scale=1.0" />
-  </head>
-
-  <style>
-    img {
-      position: absolute;
-    }
-
-    .card {
-      border: 1px solid black;
-      background-color: #333333;
-      width: 700px;
-      height: 350px;
-      display: flex;
-      align-items: center;
-    }
-
-    .character {
-      width: 300px;
-      height: 300px;
-    }
-
-    .info {
-      width: 300px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 50px;
-    }
-
-    .info_line {
-      font-size: 20px;
-      font-weight: bolder;
-      color: #ffffff;
-      margin-bottom: 20px;
-    }
-  </style>
-  <body>
-    <div class="card">
-      <div class="character">
-        <img
-          src="https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/character/cobby.gif"
-          width="300px"
-          alt="cobby"
-        />
-        <img
-          src="https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/body/korea.gif"
-          width="300px"
-          alt="body"
-        />
-        <img
-          src="https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/head/rudolf.gif"
-          width="300px"
-          alt="head"
-        />
-      </div>
-      <div class="info">
-        <div class="info_line">s-ggul's COBBY</div>
-        <div class="info_line">LV 10000000</div>
-        <div class="info_line">Today's Commits : 1</div>
-      </div>
-    </div>
-  </body>
-</html>
-
-```  
+<iframe
+  src="[https://codepen.io/team/codepen/embed/preview/PNaGbb](http://127.0.0.1:5500/index.html)"
+  style="width:100%; height:300px;"
+></iframe>
   
 ![s-ggul's github stats](https://github-readme-stats.vercel.app/api?username=s-ggul&show_icons=true&theme=react)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya) 
 </p> 

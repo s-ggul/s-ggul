@@ -3,15 +3,7 @@
 
 <p align="center">
 
-    img { position: absolute; } .card { border: 1px solid black; background-color: #333333; width: 700px; height: 350px; display: flex; align-items: center; } .character { width: 300px; height: 300px; } .info { width: 300px; display: flex; flex-direction: column; align-items: center; padding: 50px; } .info\_line { font-size: 20px; font-weight: bolder; color: #ffffff; margin-bottom: 20px; }
 
-![cobby](https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/character/cobby.gif) ![body](https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/body/korea.gif) ![head](https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/head/rudolf.gif)
-
-s-ggul's COBBY
-
-LV 10000000
-
-Today's Commits : 1
 
 
 ![s-ggul's github stats](https://github-readme-stats.vercel.app/api?username=s-ggul&show_icons=true&theme=react)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya) 

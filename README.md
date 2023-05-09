@@ -2,9 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=Sunghan&%20render&fontSize=90"/>
 
 <p align="center">
-  
-<!DOCTYPE html>
-<html lang="en">
+  ```html
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -65,13 +63,13 @@
         />
       </div>
       <div class="info">
-        <div class="info_line">Total Commits (2023) : 12414</div>
-        <div class="info_line">Consecutive commits : 100</div>
+        <div class="info_line">s-ggul's COBBY</div>
+        <div class="info_line">LV 10000000</div>
         <div class="info_line">Today's Commits : 1</div>
       </div>
     </div>
   </body>
-</html>
+```
   
   
   

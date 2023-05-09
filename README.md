@@ -3,7 +3,7 @@
 
 <p align="center">
 <iframe
-  src="[https://codepen.io/team/codepen/embed/preview/PNaGbb](http://127.0.0.1:5500/index.html)"
+  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
   style="width:100%; height:300px;"
 ></iframe>
   

@@ -4,6 +4,77 @@
 <p align="center">
 
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350">
+  <style>
+    .card {
+      stroke: black;
+      stroke-width: 1px;
+      fill: #333333;
+      display: flex;
+      align-items: center;
+      width: 700px;
+      height: 350px;
+    }
+
+    .character {
+      width: 300px;
+      height: 300px;
+    }
+
+    .info {
+      width: 300px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 50px;
+    }
+
+    .info_line {
+      font-size: 20px;
+      font-weight: bolder;
+      color: #ffffff;
+      margin-bottom: 20px;
+    }
+  </style>
+
+  <rect class="card" x="0" y="0" />
+
+  <g class="character">
+    <image
+      xlink:href="https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/character/cobby.gif"
+      x="0"
+      y="0"
+      width="300px"
+      alt="cobby"
+    />
+    <image
+      xlink:href="https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/body/korea.gif"
+      x="0"
+      y="0"
+      width="300px"
+      alt="body"
+    />
+    <image
+      xlink:href="https://cobby-bucket.s3.ap-northeast-2.amazonaws.com/head/rudolf.gif"
+      x="0"
+      y="0"
+      width="300px"
+      alt="head"
+    />
+  </g>
+
+  <g class="info">
+    <text class="info_line" x="350" y="110" text-anchor="middle">
+      s-ggul's COBBY
+    </text>
+    <text class="info_line" x="350" y="150" text-anchor="middle">
+      LV 10000000
+    </text>
+    <text class="info_line" x="350" y="190" text-anchor="middle">
+      Today's Commits : 1
+    </text>
+  </g>
+</svg>
 
 
 ![s-ggul's github stats](https://github-readme-stats.vercel.app/api?username=s-ggul&show_icons=true&theme=react)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya) 

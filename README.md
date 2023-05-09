@@ -3,8 +3,13 @@
 
 <p align="center">
 
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350">
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="500"
+  height="350"
+  viewBox="0 0 700 350"
+>
   <style>
     .card {
       stroke: black;
@@ -32,7 +37,7 @@
     .info_line {
       font-size: 20px;
       font-weight: bolder;
-      color: #ffffff;
+      fill: #ffffff;
       margin-bottom: 20px;
     }
   </style>

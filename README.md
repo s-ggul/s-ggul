@@ -8,7 +8,6 @@
 ![s-ggul's github stats](https://github-readme-stats.vercel.app/api?username=s-ggul&show_icons=true&theme=react)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya) 
 </p> 
 
-
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkeya)](https://solved.ac/dkeya/)-->
 
 <br />

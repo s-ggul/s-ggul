@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/TypeScript-1976D2?style=flat-square&logo=TypeScript&logoColor=white"/>   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Vue-61DAFB?style=flat-square&logo=Vue&logoColor=white"/>
 </p>
 
 <p align="center">

@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat-square&logo=Vue.JS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.JS-ffffff?style=flat-square&logo=Next.JS&logoColor=white"/>
 </p>
 
 <p align="center">

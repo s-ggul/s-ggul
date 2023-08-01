@@ -22,8 +22,8 @@
 |K-Hackathon| 취약계층을 위한 키오스크(QR-UFO) | 과학기술정보통신부 |WEB Frontend|React.js|2022-06-17 ~ 2022-10-20|
 |SSAFY 8th| SSAFY 8기 | Multi Campus & SAMSUNG |Student|Java, Javascript, Algorithms |2022-07-06 ~ ing|
 |SSAFY 8th| Plands | Multi Campus & SAMSUNG |Team Leader, Frontend, DevOps|React, Redux, Y.js, Openvidu, Level DB, Indexed DB, Nginx, Jenkins, EC2, Docker |2023-01-09 ~ 2023-02-17|
-|SSAFY 8th| Build Infra | SAMSUNG Electronics Visual Display Department | DevOps | Kubernetes, Docker, Jenkins, Ansible, NginX, KPS, EC2 |2023-01-09 ~ 2023-02-17|
-|SSAFY 8th| COBBY | Multi Campus & SAMSUNG | Frontend, DevOps  | React.js, Next.js, Kubernetes, Docker, Jenkins, NginX, AWS(EKS,ELB,EC2..) |2023-01-09 ~ 2023-02-17|
+|SSAFY 8th| Build Infra | SAMSUNG Electronics Visual Display Department | DevOps | Kubernetes, Docker, Jenkins, Ansible, NginX, KPS, EC2 |2023-02-20 ~ 2023-04-07|
+|SSAFY 8th| COBBY | Multi Campus & SAMSUNG | Frontend, DevOps  | React.js, Next.js, Kubernetes, Docker, Jenkins, NginX, AWS(EKS,ELB,EC2..) |2023-04-10 ~ 2023-05-19|
 <br />
 
 <span align="center">

@@ -23,6 +23,7 @@
 |SSAFY 8th| SSAFY 8기 | Multi Campus & SAMSUNG |Student|Java, Javascript, Algorithms |2022-07-06 ~ ing|
 |SSAFY 8th| Plands | Multi Campus & SAMSUNG |Team Leader, Frontend, DevOps|React, Redux, Y.js, Openvidu, Level DB, Indexed DB, Nginx, Jenkins, EC2, Docker |2023-01-09 ~ 2023-02-17|
 |SSAFY 8th| Build Infra | SAMSUNG Electronics Visual Display Department | DevOps | Kubernetes, Docker, Jenkins, Ansible, NginX, KPS, EC2 |2023-01-09 ~ 2023-02-17|
+|SSAFY 8th| COBBY | Multi Campus & SAMSUNG | Frontend, DevOps  | React.js, Next.js, Kubernetes, Docker, Jenkins, NginX, AWS(EKS,ELB,EC2..) |2023-01-09 ~ 2023-02-17|
 <br />
 
 <span align="center">

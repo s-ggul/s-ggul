@@ -14,7 +14,7 @@
 <br />
 <h3 align="center"><b> :date: Participation :clock10: </b></h3>
 
-|Participation|Project Name|Organization|Role|Used|Period|
+|Participation|Project Name|Organization|Role|I Used..|Period|
 |:----:|:-------:|:-------:|:----:|:----:|:----:|
 |SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart |WEB Frontend |React,Redux, NextJs, NginX|2021-07-05 ~ 2021-07-30|
 |IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|NodeRed, Mosquitto, RaspberryPi & Sensor|2021-12-31 ~ 2022-02-27|

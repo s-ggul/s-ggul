@@ -36,18 +36,11 @@
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <h4 align="center"><b>Studying</b></h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-3069DD?style=flat-square&logo=Kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazonaws-232f3e?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
+
 <p align="center">  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-1976D2?style=flat-square&logo=TypeScript&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat-square&logo=Vue.JS&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AngularJS-#E23237?style=flat-square&logo=angularjs&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -55,6 +48,12 @@
 </p>
 
 <h4 align="center">Previously I used</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-3069DD?style=flat-square&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonAWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -62,7 +61,10 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-c7cdd4?style=flat-square&logo=Flutter&logoColor=00aaff"/>
-    <!--<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>-->
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=flat-square&logo=Vue.JS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.JS&logoColor=white"/>
   </p>
 
   <p align="center">
@@ -72,7 +74,7 @@
   </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Spring-003300?style=flat-square&logo=Spring&logoColor=lightgreen"/>
   <img src="https://img.shields.io/badge/Mysql-007396?style=flat-square&logo=MySql&logoColor=white"/>
 </p>

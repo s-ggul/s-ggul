@@ -60,6 +60,8 @@
     <img src="https://img.shields.io/badge/C%23-3fe322?style=flat-square&logo=Csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Flutter-c7cdd4?style=flat-square&logo=Flutter&logoColor=00aaff"/>
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>

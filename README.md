@@ -24,6 +24,7 @@
 |SSAFY 8th| Plands | Multi Campus & SAMSUNG |Team Leader, Frontend, DevOps|React, Redux, Y.js, Openvidu, Level DB, Indexed DB, Nginx, Jenkins, EC2, Docker |2023-01-09 ~ 2023-02-17|
 |SSAFY 8th| Build Infra | SAMSUNG Electronics Visual Display Department | DevOps | Kubernetes, Docker, Jenkins, Ansible, NginX, KPS, EC2 |2023-02-20 ~ 2023-04-07|
 |SSAFY 8th| COBBY | Multi Campus & SAMSUNG | Frontend, DevOps  | React.js, Next.js, Kubernetes, Docker, Jenkins, NginX, AWS(EKS,ELB,EC2..) |2023-04-10 ~ 2023-05-19|
+|Satrec Initiative| - | Satrec Initiative | Frontend, Backend  | Angular.js, Spring Boot |2023-06-26 ~ |
 <br />
 
 <span align="center">

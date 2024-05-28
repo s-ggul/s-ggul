@@ -16,15 +16,15 @@
 
 |Participation|Project Name|Organization|Role|I Used..|Period|
 |:----:|:-------:|:-------:|:----:|:----:|:----:|
-|SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart |WEB Frontend |React,Redux, NextJs, NginX|2021-07-05 ~ 2021-07-30|
-|IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|NodeRed, Mosquitto, RaspberryPi & Sensor|2021-12-31 ~ 2022-02-27|
-|Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#|2022-03-07 ~ 2022-06-24|
-|K-Hackathon| 취약계층을 위한 키오스크(QR-UFO) | 과학기술정보통신부 |WEB Frontend|React.js|2022-06-17 ~ 2022-10-20|
-|SSAFY 8th| SSAFY 8기 | Multi Campus & SAMSUNG |Student|Java, Javascript, Algorithms |2022-07-06 ~ ing|
-|SSAFY 8th| Plands | Multi Campus & SAMSUNG |Team Leader, Frontend, DevOps|React, Redux, Y.js, Openvidu, Level DB, Indexed DB, Nginx, Jenkins, EC2, Docker |2023-01-09 ~ 2023-02-17|
-|SSAFY 8th| Build Infra | SAMSUNG Electronics Visual Display Department | DevOps | Kubernetes, Docker, Jenkins, Ansible, NginX, KPS, EC2 |2023-02-20 ~ 2023-04-07|
-|SSAFY 8th| COBBY | Multi Campus & SAMSUNG | Frontend, DevOps  | React.js, Next.js, Kubernetes, Docker, Jenkins, NginX, AWS(EKS,ELB,EC2..) |2023-04-10 ~ 2023-05-19|
 |Satrec Initiative| - | Satrec Initiative | Frontend, Backend  | Angular.js, Spring Boot |2023-06-26 ~ |
+|SSAFY 8th| COBBY | Multi Campus & SAMSUNG | Frontend, DevOps  | React.js, Next.js, Kubernetes, Docker, Jenkins, NginX, AWS(EKS,ELB,EC2..) |2023-04-10 ~ 2023-05-19|
+|SSAFY 8th| Build Infra | SAMSUNG Electronics Visual Display Department | DevOps | Kubernetes, Docker, Jenkins, Ansible, NginX, KPS, EC2 |2023-02-20 ~ 2023-04-07|
+|SSAFY 8th| Plands | Multi Campus & SAMSUNG |Team Leader, Frontend, DevOps|React, Redux, Y.js, Openvidu, Level DB, Indexed DB, Nginx, Jenkins, EC2, Docker |2023-01-09 ~ 2023-02-17|
+|SSAFY 8th| SSAFY 8기 | Multi Campus & SAMSUNG |Student|Java, Javascript, Algorithms |2022-07-06 ~ ing|
+|K-Hackathon| 취약계층을 위한 키오스크(QR-UFO) | 과학기술정보통신부 |WEB Frontend|React.js|2022-06-17 ~ 2022-10-20|
+|Semester Internship| 방산 소프트웨어 신뢰성 테스팅 | SatrecI |Code Coverage Improving|C#|2022-03-07 ~ 2022-06-24|
+|IITP Global AI/SW Talent Program | Petification|Purdue University, USA | UI & Device, Messaging Protocol|NodeRed, Mosquitto, RaspberryPi & Sensor|2021-12-31 ~ 2022-02-27|
+|SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart |WEB Frontend |React,Redux, NextJs, NginX|2021-07-05 ~ 2021-07-30|
 <br />
 
 <span align="center">

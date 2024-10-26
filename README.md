@@ -4,7 +4,7 @@
 <p align="center">
  
 <!--![COBBY_BADGE](https://cobby-play.com/api/user/badge/s-ggul?theme=2)-->
-![Portfolio](https://bottlenose-berry-841.notion.site/Portfolio-be04b50a2eda4f38ae061bd9cd4f939f)
+[Portfolio](https://bottlenose-berry-841.notion.site/Portfolio-be04b50a2eda4f38ae061bd9cd4f939f)
  
 ![s-ggul's github stats](https://github-readme-stats.vercel.app/api?username=s-ggul&show_icons=true&theme=react)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkeya)](https://solved.ac/dkeya) 
 </p> 

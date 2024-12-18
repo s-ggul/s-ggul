@@ -7,7 +7,7 @@
 
 <span align="center">
  
-👉🏻 Portfolio : [LINK](https://bottlenose-berry-841.notion.site/Portfolio-be04b50a2eda4f38ae061bd9cd4f939f)
+👉🏻 Portfolio : [LINK](https://bottlenose-berry-841.notion.site/Portfolio-160779ed532580c4b4eee44054a79e88)
 
 </span>
 

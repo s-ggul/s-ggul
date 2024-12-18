@@ -15,7 +15,7 @@
 </p> 
  
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dkeya)](https://solved.ac/dkeya/)-->
-
+<!--
 <br />
 <br />
 <h3 align="center"><b> :date: Participation :clock10: </b></h3>
@@ -33,11 +33,13 @@
 |SiliconValley Online Internship | Voice Synthesizer |SiliconValley HeadStart |WEB Frontend |React,Redux, NextJs, NginX|2021-07-05 ~ 2021-07-30|
 <br />
 
+
 <span align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-ggul)](https://github.com/s-ggul/github-readme-stats)
 
 </span>
+-->
 
 <br />
 

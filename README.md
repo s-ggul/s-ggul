@@ -41,6 +41,7 @@
 </span>
 -->
 
+<!--
 <br />
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -105,6 +106,7 @@
     <a href="https://github.com/s-ggul/TIL"><img src="https://img.shields.io/badge/TIL-e195ed?style=flat-square&logo=Github&logoColor=black"/></a>
   </p>
   
+-->
 <!--
 <p align="center">
   <img src="https://github.com/s-ggul/s-ggul/raw/output/github-contribution-grid-snake.svg" alt="snake">
